@@ -2,8 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'pages/blog.html'}
+- {name: 'Books', url: ''}
 - {name: 'About', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
@@ -35,38 +34,40 @@ google-analytics-ua: 'UA-112060364-3'
 disqus:
   comments: false
   disqus_shortname: 'thathungrymind'
+#This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
 
 #-------------------------------
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
+  # Who is Emma?
 
-  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+  Emma lives in New England. She is a scientist that works in the field of psychiatry, or at least that is what she role plays during the day. She started this book blog for two reasons. First, she loves to read and recently discovered that writing reviews helps her to remember which books she loved most of all. Second, she wants to get free copies of books from publishers. This blog seemed like the most direct path to achieving that goal. The reviews on this website are capped at two-hundred and fifty words. Consequently, there are no (lengthy) plot synopses. A lengthy synopsis rather defeats the purpose after all. The books reviewed here mostly fall under the umbrella of modern literary fiction, though the occasional oldie might sneak its way in.
 
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  If you would like to send Emma a free copy of a book in return for a review (help her achieve her blogging dream) then please [email her](mailto:emmablogsbooks@gmail.com).
 
 #-------------------------------
 # Work Section
 
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'My Year of Rest and Relaxation </br> <em>Ottessa Mosfegh</em>', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'These Ghosts Are Family </br> <em>Maisy Card</em>', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'Severance </br> <em>Ling Ma</em>', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'Weather </br> <em>Jenny Offill</em>', folder: 'proj-4', file: 'projects/proj-4.html'}
+- {name: 'Dear Edward </br> <em>Ann Napolitano</em>', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'The People in the Trees </br> <em>Hanya Yanagihara</em>', folder: 'proj-6', file: 'projects/proj-6.html'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+#- {icon: 'twitter', link: '#'}
+#- {icon: 'instagram', link: '#'}
+#- {icon: 'github', link: '#'}
+#- {icon: 'linkedin', link: '#'}
+- {icon: 'envelope', link: 'mailto:emmablogsbooks@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

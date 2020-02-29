@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'These Ghosts Are Family by Maisy Card'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+In the first chapter of These Ghosts Are Family it is revealed that Stan is an imposter, he leveraged the death of his friend (and the racism of his employers) to abandon his family in Jamaica and start afresh in the US. The repercussions of this revelation for his children and wife, who exists from beyond the grave, spiral into a kaleidoscope of family history. This is a beautiful debut novel. It feels in some ways like many novels woven into one, with distinct voices emerging from times in history spanning colonial Jamaica to present day New York. This novel deals with important and unwieldly themes that thread throughout history to present day and which span society, for example, racism, misogyny, abuse, addiction, and trauma. Card handles these themes with poise and empathy. She does so by playing them out via the lens of a family with characters that are just flawed enough so that they are vital and real. Indeed I was so invested in learning what happened to them that the larger themes flowered effortlessly alongside. Unfortunately, and embarrassingly, I was ignorant of much of the historical context of this novel, but it spurred me to do some research of my own. As with most important times in history their ripples can still be felt today, and if we are to avoid making the same mistakes again, we must look backward while moving forward. I would wholeheartedly recommend this book. Thank you to Simon and Schuster for providing me with an ARC.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+{% include image.html url="http://www.gratisography.com" image="projects/proj-2/ghosts_family.jpeg" %}
